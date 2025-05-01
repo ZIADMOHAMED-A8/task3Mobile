@@ -18,6 +18,6 @@ Reusable components for contact items
 I just wanted to have a light and strange way of representing myself through the internet, not just a PDF CV. This app not only lets others contact me quickly, but it also provides them with a small interactive journey into my design thinking process.
 If that sounds good to you, only let me know if you are interested in an app store listing version, CV inclusion, or personal website. Do you need help in extending it with a skills section or project gallery too?
 
-https://github.com/user-attachments/assets/4dda4e29-d4b6-4c8e-8dbc-73fe92e84e78
+[Screen_recording_20250501_103837.webm](https://github.com/user-attachments/assets/e250c018-124f-4dfa-a22f-a6b28bc0dafb)
 
 
