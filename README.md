@@ -1,3 +1,6 @@
+ziad mohamed badry
+id:230553577
+
 👨‍💻 Ziad's Portfolio App – Clean, Personal, and Interactive
 This personal portfolio app made with Flutter is not only simple but also elegant in the way a designer or a developer can represent themselves. The user-friendly layout, interactive elements, and mandatory contact information are − at the same time − what make the user feel comfortable. The UX is also in that category.
 ✨ Highlights:
